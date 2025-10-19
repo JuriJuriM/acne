@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/acne/static/css/main.80a332f0.css",
+    "main.js": "/acne/static/js/main.da6fd0cd.js",
+    "static/media/avatar.jpg": "/acne/static/media/avatar.82bba7d15b640b33adba.jpg",
+    "index.html": "/acne/index.html",
+    "main.80a332f0.css.map": "/acne/static/css/main.80a332f0.css.map",
+    "main.da6fd0cd.js.map": "/acne/static/js/main.da6fd0cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80a332f0.css",
+    "static/js/main.da6fd0cd.js"
+  ]
+}
