@@ -5,7 +5,7 @@ import Burger from '../../assets/img/menu.svg.png'
 import Logo from '../../assets/img/avatar.jpg'
 //import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import { Link, Route, Routes } from 'react-router-dom'
-import Main from '../pages/Main'
+import Main from '../../pages/Main'
 
 
 
