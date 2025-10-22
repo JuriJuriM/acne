@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/acne/static/css/main.80a332f0.css",
-    "main.js": "/acne/static/js/main.da6fd0cd.js",
+    "main.css": "/acne/static/css/main.0fec38e3.css",
+    "main.js": "/acne/static/js/main.8c7e6ee5.js",
+    "static/media/acne.png": "/acne/static/media/acne.97b2ddb71650c6ee215f.png",
+    "static/media/acnefone.jpg": "/acne/static/media/acnefone.ade33b4d5d4d7b4cdaf2.jpg",
     "static/media/avatar.jpg": "/acne/static/media/avatar.82bba7d15b640b33adba.jpg",
     "index.html": "/acne/index.html",
-    "main.80a332f0.css.map": "/acne/static/css/main.80a332f0.css.map",
-    "main.da6fd0cd.js.map": "/acne/static/js/main.da6fd0cd.js.map"
+    "main.0fec38e3.css.map": "/acne/static/css/main.0fec38e3.css.map",
+    "main.8c7e6ee5.js.map": "/acne/static/js/main.8c7e6ee5.js.map"
   },
   "entrypoints": [
-    "static/css/main.80a332f0.css",
-    "static/js/main.da6fd0cd.js"
+    "static/css/main.0fec38e3.css",
+    "static/js/main.8c7e6ee5.js"
   ]
 }
